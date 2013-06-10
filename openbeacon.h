@@ -67,4 +67,3 @@ typedef union
 TBeaconEnvelope;
 
 #endif/*__OPENBEACON_H__*/
-
